@@ -1,53 +1,11 @@
 {
   "version": 1,
   "avatars": [
-    {
-      "name": "Nardo-Gems",
-      "id": "avtr_222685be-c881-4202-8202-bd2691f062a4",
-      "medium": "avtr_d4e67edf-8498-4001-947c-c04ec99078f8",
-      "tag": "NEW"
-    },
-    {
-      "name": "Glowy Rex",
-      "id": "avtr_46e3f7fd-c979-42b4-833a-168d98ee8815",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "NardoG",
-      "id": "avtr_d4e67edf-8498-4001-947c-c04ec99078f8",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "Sky Nova",
-      "id": "avtr_fb3dcbae-2f92-4c0f-9cfa-e68d8d1377b3",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "Nova Line",
-      "id": "avtr_76d834a1-c5df-4a10-acea-2840e1a84d9f",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "Nova-Line",
-      "id": "avtr_8e473cc4-a3ba-4045-8bdf-77eac146cbba",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "TEST page2 A",
-      "id": "avtr_46e3f7fd-c979-42b4-833a-168d98ee8815",
-      "medium": "",
-      "tag": ""
-    },
-    {
-      "name": "TEST page2 B",
-      "id": "avtr_fb3dcbae-2f92-4c0f-9cfa-e68d8d1377b3",
-      "medium": "avtr_76d834a1-c5df-4a10-acea-2840e1a84d9f",
-      "tag": ""
-    }
+    { "name": "Nardo-Gems", "id": "avtr_222685be-c881-4202-8202-bd2691f062a4", "medium": "", "tag": "" },
+    { "name": "Glowy Rex",  "id": "avtr_46e3f7fd-c979-42b4-833a-168d98ee8815", "medium": "", "tag": "" },
+    { "name": "NardoG",     "id": "avtr_d4e67edf-8498-4001-947c-c04ec99078f8", "medium": "", "tag": "" },
+    { "name": "Sky Nova",   "id": "avtr_fb3dcbae-2f92-4c0f-9cfa-e68d8d1377b3", "medium": "", "tag": "" },
+    { "name": "Nova Line",  "id": "avtr_76d834a1-c5df-4a10-acea-2840e1a84d9f", "medium": "", "tag": "" },
+    { "name": "Nova-Line",  "id": "avtr_8e473cc4-a3ba-4045-8bdf-77eac146cbba", "medium": "", "tag": "" }
   ]
 }
